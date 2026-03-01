@@ -1,0 +1,16 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #a32525;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(211, 226, 5, 0.1);
+  text-align: center;
+}
+
+.input-section {
+  width: 60%;
+  margin-left: 100px;
+  /* border: 2px solid blue; */
+  /* padding: 15px; */
+}
